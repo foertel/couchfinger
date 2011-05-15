@@ -1,0 +1,5 @@
+{
+    "name": "couchfinger",
+    "description": "Webfinger implementation in pure CouchDB.",
+    "version": "0.0.1"
+}

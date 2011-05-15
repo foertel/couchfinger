@@ -1,0 +1,10 @@
+[
+  {
+    "from": "",
+    "to": "index.html"
+  },
+  {
+    "from": "webfinger/:account",
+    "to": "_show/webfinger/:account"
+  }
+]
